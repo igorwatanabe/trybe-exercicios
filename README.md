@@ -25,3 +25,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 2-3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 2-3: _HTML Semântico_
 - [ ] 2-3: _Projeto - Lessons Learned_
+
+##### Seção 3: Introdução à JavaScript
